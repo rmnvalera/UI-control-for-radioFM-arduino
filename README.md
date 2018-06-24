@@ -3,5 +3,5 @@ java.
 
 Interface:
 <p align="center">
-  <img src="interface.png" width="350"/>
+  <img src="interface.bmp" width="350"/>
 </p>
